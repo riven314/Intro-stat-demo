@@ -5,4 +5,5 @@ Topics Covered:
 1. Probability Mass Function and Probability Distribution Function of Discrete Random Variable
 
 
+
 _The materials are in preliminary version so it may be subject to errors. If you encounter any errors in my materials, feel free to report them to me._
